@@ -1,37 +1,42 @@
-## Welcome to GitHub Pages
+# Github Page /index
+[Github Page](https://github.nomuraya.work)
 
-You can use the [editor on GitHub](https://github.com/prochona/githubpages/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+# Usage
+Also --recursive is added to clone all submodules at once.
+```
+git clone --recursive git@github.com:shimajima-eiji/shimajima-eiji.github.io.git
+### git remote -v: git@github.com:shimajima-eiji/shimajima-eiji.github.io.git
+# or
+git clone --recursive https://github.com/shimajima-eiji/shimajima-eiji.github.io.git
+### git remote -v: https://github.com/shimajima-eiji/shimajima-eiji.github.io.git
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+# Repositories
+## resume
+for self-introduction
 
-### Jekyll Themes
+## utils
+for work
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/prochona/githubpages/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+## gist / blog
+knowledge note
 
-### Support or Contact
+## tande: Try and Error
+test, and trial with github page
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+# resume
+- [gist](https://github.com/shimajima-eiji/resume)
+- github page: [resume](https://github.nomuraya.work/gist/resume)
+- description: [title](https://nomuraya.work/techzine/)
+
+# winsettings
+- [gist](https://github.com/shimajima-eiji/WinSettings)
+- github page: [winsettings](https://github.nomuraya.work/gist/winsettings)
+- description: [title](https://nomuraya.work/techzine/)
+
+# nichinoken
+- [gist](https://github.com/shimajima-eiji/EntranceExam.git)
+- github page: [nichinoken](https://github.nomuraya.work/gist/nichinoken)
+- description: [title](https://nomuraya.work/techzine/)
+
+
